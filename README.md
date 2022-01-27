@@ -4,3 +4,5 @@ Date     Time
 Jan-23   30m
     24   30m
     25   30m
+    26   0m
+    27   30m
